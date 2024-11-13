@@ -1,5 +1,7 @@
 # JavaScript-Multiply Calculator
 
+![image](https://github.com/user-attachments/assets/6cb55871-2417-46bc-b628-20d2445ca91a)
+
 ## About The Project
 
 The Multiplication Calculator project demonstrates the basic functionality of a Node.js and Express application with a focus on multiplication.
